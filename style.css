@@ -1,7 +1,9 @@
 h1 {
     color: red;
+    border: brown;
 }
 p {
-    color: red;
+    color: aqua;
     font-size: 20px;
+    background-color: #fff;
 }
